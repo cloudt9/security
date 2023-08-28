@@ -1,0 +1,607 @@
+{
+  "gexf": {
+    "-xmlns": "http://www.gexf.net/1.2draft",
+    "-xmlns:viz": "http://www.gexf.net/1.2draft/viz",
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-version": "1.2",
+    "-xsi:schemaLocation": "http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd",
+    "meta": {
+      "-lastmodifieddate": "2014-01-30",
+      "creator": "Gephi 0.8.1"
+    },
+    "graph": {
+      "-defaultedgetype": "undirected",
+      "-mode": "static",
+      "attributes": {
+        "-class": "node",
+        "-mode": "static",
+        "attribute": {
+          "-id": "modularity_class",
+          "-title": "Modularity Class",
+          "-type": "integer"
+        }
+      },
+      "nodes": {
+        "node": [
+          {
+            "-id": "0",
+            "-label": "Data Encryption",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "0"
+              }
+            },
+            "viz:size": { "-value": "28.685715" },
+            "viz:position": {
+              "-x": "-266.82776",
+              "-y": "299.6904",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "235",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "1",
+            "-label": "Data Privacy and Residency",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "0"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-418.08344",
+              "-y": "446.8853",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "235",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "2",
+            "-label": "Data Encryption",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "9.485714" },
+            "viz:position": {
+              "-x": "-212.76357",
+              "-y": "245.29176",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "236",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "3",
+            "-label": "Network Security/ Application Security",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "9.485714" },
+            "viz:position": {
+              "-x": "-242.82404",
+              "-y": "235.26283",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "236",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "4",
+            "-label": "Security Montitoring and Logging",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "0"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-379.30386",
+              "-y": "429.06424",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "236",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "5",
+            "-label": "Vulnerability Management",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "0"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-417.26337",
+              "-y": "406.03506",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "236",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "6",
+            "-label": "Compliance and Auditing",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "0"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-332.6012",
+              "-y": "485.16974",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "236",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "7",
+            "-label": "Security Governance and Policies",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "0"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-382.69568",
+              "-y": "475.09113",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "236",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "8",
+            "-label": "Container and Serverless Security",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "0"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-344.39832",
+              "-y": "451.16772",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "236",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "9",
+            "-label": "Supply Chain Security",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-89.34107",
+              "-y": "234.56128",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "236",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "10",
+            "-label": "Automated Security Measures",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "100.0" },
+            "viz:position": {
+              "-x": "-87.93029",
+              "-y": "-6.8120565",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "236",
+              "-g": "81",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "11",
+            "-label": "Network Security/ Application Security",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "6.742859" },
+            "viz:position": {
+              "-x": "-339.77908",
+              "-y": "-184.69139",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "220",
+              "-g": "91",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "12",
+            "-label": "Security Montitoring and Logging",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-194.31313",
+              "-y": "178.55301",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "220",
+              "-g": "91",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "13",
+            "-label": "Compliance and Auditing",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-158.05168",
+              "-y": "201.99768",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "220",
+              "-g": "91",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "14",
+            "-label": "Data Backup and Disaster Recovery",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-127.701546",
+              "-y": "242.55057",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "220",
+              "-g": "91",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "15",
+            "-label": "Incident Response and Recovery",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-127.701546",
+              "-y": "242.55057",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "220",
+              "-g": "91",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "16",
+            "-label": "Cloud Provider Security Features",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-127.701546",
+              "-y": "242.55057",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "220",
+              "-g": "91",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "17",
+            "-label": "Automated Security Measures",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-127.701546",
+              "-y": "242.55057",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "220",
+              "-g": "91",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "18",
+            "-label": "Identity and Access Management (IAM)",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-127.701546",
+              "-y": "242.55057",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "176",
+              "-g": "71",
+              "-b": "82"
+            }
+          },
+          {
+            "-id": "19",
+            "-label": "Compliance and Auditing",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-127.701546",
+              "-y": "242.55057",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "155",
+              "-g": "91",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "20",
+            "-label": "Security Governance and Policies",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-127.701546",
+              "-y": "242.55057",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "155",
+              "-g": "91",
+              "-b": "72"
+            }
+          },
+          {
+            "-id": "21",
+            "-label": "Identity and Access Management (IAM)",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-127.701546",
+              "-y": "242.55057",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "136",
+              "-g": "81",
+              "-b": "142"
+            }
+          },
+          {
+            "-id": "22",
+            "-label": "Cloud Provider Security Features",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-127.701546",
+              "-y": "242.55057",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "136",
+              "-g": "81",
+              "-b": "142"
+            }
+          },
+          {
+            "-id": "23",
+            "-label": "Automated Security Measures",
+            "attvalues": {
+              "attvalue": {
+                "-for": "modularity_class",
+                "-value": "1"
+              }
+            },
+            "viz:size": { "-value": "4.0" },
+            "viz:position": {
+              "-x": "-127.701546",
+              "-y": "242.55057",
+              "-z": "0.0"
+            },
+            "viz:color": {
+              "-r": "136",
+              "-g": "81",
+              "-b": "142"
+            }
+          }
+        ]
+      },
+      "edges": {
+        "edge": [
+          {
+            "-id": "0",
+            "-source": "0",
+            "-target": "2"
+          },
+          {
+            "-id": "1",
+            "-source": "3",
+            "-target": "11",
+            "-weight": "8.0"
+          },
+          {
+            "-id": "2",
+            "-source": "4",
+            "-target": "12",
+            "-weight": "10.0"
+          },
+          {
+            "-id": "3",
+            "-source": "6",
+            "-target": "13",
+            "-weight": "6.0"
+          },
+          {
+            "-id": "4",
+            "-source": "13",
+            "-target": "19"
+          },
+          {
+            "-id": "5",
+            "-source": "6",
+            "-target": "19"
+          },
+          {
+            "-id": "6",
+            "-source": "7",
+            "-target": "20"
+          },
+          {
+            "-id": "7",
+            "-source": "10",
+            "-target": "17"
+          },
+          {
+            "-id": "8",
+            "-source": "17",
+            "-target": "23",
+            "-weight": "2.0"
+          },
+          {
+            "-id": "9",
+            "-source": "10",
+            "-target": "23"
+          },
+          {
+            "-id": "10",
+            "-source": "16",
+            "-target": "22"
+          },
+          {
+            "-id": "11",
+            "-source": "12",
+            "-target": "11"
+          },
+          {
+            "-id": "12",
+            "-source": "18",
+            "-target": "21"
+          }
+        ]
+      }
+    }
+  }
+}
